@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1a78d67bb1aff741f509961f2b166f16$ -->
+<TextureAtlas imagePath="gui.png">
+    <SubTexture name="back_btn" x="812" y="2" width="186" height="75" frameX="-3" frameY="0" frameWidth="190" frameHeight="75"/>
+    <SubTexture name="builder" x="2" y="2" width="436" height="71" frameX="-1" frameY="-3" frameWidth="438" frameHeight="75"/>
+    <SubTexture name="city_btn" x="2" y="668" width="256" height="256"/>
+    <SubTexture name="grandprix" x="440" y="2" width="370" height="75" frameX="-1" frameY="0" frameWidth="372" frameHeight="75"/>
+    <SubTexture name="help" x="260" y="294" width="171" height="69" frameX="0" frameY="-2" frameWidth="171" frameHeight="71"/>
+    <SubTexture name="level_01" x="726" y="223" width="169" height="71" frameX="-2" frameY="0" frameWidth="171" frameHeight="71"/>
+    <SubTexture name="level_02" x="731" y="152" width="255" height="69" frameX="-2" frameY="-2" frameWidth="257" frameHeight="71"/>
+    <SubTexture name="level_03" x="260" y="152" width="179" height="71" frameX="-2" frameY="0" frameWidth="181" frameHeight="71"/>
+    <SubTexture name="level_btn" x="474" y="296" width="126" height="126" frameX="-1" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="mode_01" x="474" y="223" width="250" height="71" frameX="-2" frameY="0" frameWidth="252" frameHeight="71"/>
+    <SubTexture name="mode_02" x="322" y="79" width="307" height="71" frameX="-1" frameY="0" frameWidth="309" frameHeight="71"/>
+    <SubTexture name="mountain_btn" x="2" y="410" width="256" height="256"/>
+    <SubTexture name="my_tracks" x="474" y="152" width="255" height="69" frameX="-2" frameY="-2" frameWidth="257" frameHeight="71"/>
+    <SubTexture name="play_btn" x="2" y="926" width="178" height="75" frameX="-2" frameY="0" frameWidth="180" frameHeight="75"/>
+    <SubTexture name="sea_btn" x="2" y="152" width="256" height="256"/>
+    <SubTexture name="set_btn" x="2" y="75" width="318" height="75" frameX="-1" frameY="0" frameWidth="320" frameHeight="75"/>
+    <SubTexture name="sound_off" x="631" y="79" width="302" height="71" frameX="-1" frameY="0" frameWidth="304" frameHeight="71"/>
+    <SubTexture name="sound_on" x="182" y="926" width="290" height="71" frameX="0" frameY="0" frameWidth="304" frameHeight="71"/>
+    <SubTexture name="tour" x="260" y="225" width="172" height="67" frameX="-1" frameY="-2" frameWidth="174" frameHeight="71"/>
+</TextureAtlas>
