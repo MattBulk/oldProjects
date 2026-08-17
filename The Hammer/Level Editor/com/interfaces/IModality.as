@@ -1,0 +1,1 @@
+﻿package com.interfaces  {	import flash.display.Sprite;		public interface IModality {		// Interface methods:		function init():void;		function clearContainer():void;		function saveDocu():void;	}	}

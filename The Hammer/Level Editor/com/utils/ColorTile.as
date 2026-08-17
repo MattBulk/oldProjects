@@ -1,0 +1,1 @@
+﻿package com.utils {		import flash.geom.ColorTransform;	import com.Tile;			public function ColorTile(currentTile:Tile) {		// constructor code		var myColorTransform = new ColorTransform();		myColorTransform.color = 0x8F00FF;					currentTile.transform.colorTransform = myColorTransform;	}	}
